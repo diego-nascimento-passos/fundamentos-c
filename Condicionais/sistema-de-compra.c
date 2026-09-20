@@ -35,7 +35,6 @@ int main(){
         totalComDesconto = total;
     }
 
-
     // Exibe os resultados da compra 
     printf ("\n===  Sistema de compra ===\n");
     printf ("Preço do produto: %.2f\n", preco);
