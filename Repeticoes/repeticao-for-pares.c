@@ -8,7 +8,7 @@ int main (){
 
     // Estrutura de repetição para pecorre de 1 a 20
     for (num = 1; num <= 20; num++){
-        if (num % 2 == 0 ){  // Estrrutura de codicional IF para calcular os pares.
+        if (num % 2 == 0 ){  // Estrutura de codicional IF para calcular os pares.
             soma += num;
         }
     }
