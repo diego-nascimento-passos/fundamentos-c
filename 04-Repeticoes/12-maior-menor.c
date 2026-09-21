@@ -30,24 +30,3 @@ int main (){
     printf ("Menor número: %d\n", menor);
     return 0;
 }
-
-/*Próximo: Exercício 9 — Maior e menor número
-
-Descubra qual foi o maior número digitado.
-Descubra qual foi o menor número digitado.
-No final, mostre os dois.
-
-Exemplo:
-
-Digite um número: 15
-Digite um número: 8
-Digite um número: 32
-Digite um número: -4
-...
-
-Resultado:
-
-Maior número: 32
-Menor número: -4
-
-💡 Dica importante: você vai precisar pensar em como guardar o primeiro número para utilizá-lo como referência inicial. Não vou passar o código pronto — quero que você tente montar a lógica.*/
