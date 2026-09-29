@@ -2,6 +2,7 @@
 
 int main (){
 
+    // Declaração de variáveis
     int numero[10]; // Vetor para guardar 10 números inteiros
     int contador; // Variável de controle para os loops (laços de repetição)
     int procurar;  // Armazena o número que você quer buscar
