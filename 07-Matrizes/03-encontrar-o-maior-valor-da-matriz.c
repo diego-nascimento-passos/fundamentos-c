@@ -2,7 +2,7 @@
 
 int main (){
 
-        // Declaração de variáveis
+    // Declaração de variáveis
     int matriz [3][3];// Declara uma matriz de inteiros com 3 linhas e 3 colunas (total de 9 elementos)
     int linha, coluna;// Variáveis de controle para percorrer as linhas e colunas nos loops
     int maior; // Variável acumuladora para guardar o total da soma dos elementos, iniciada em 0
