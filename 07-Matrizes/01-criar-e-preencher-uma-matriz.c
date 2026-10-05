@@ -18,9 +18,7 @@ int main (){
     }
     // Segundo bloco: imprime a matriz na tela em formato de tabela
     for(linha = 0; linha < 3; linha++){
-        for(coluna = 0; coluna < 3; coluna++){
-
-            
+        for(coluna = 0; coluna < 3; coluna++){  
             printf ("%d ", matriz[linha][coluna]);
         }
         // Pula para a próxima linha após terminar uma linha da matriz
